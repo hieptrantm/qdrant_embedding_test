@@ -1,0 +1,37 @@
+[
+    {
+      "query": "liệu ai có thể thay thế vai trò của giáo viên trong giáo dục",
+      "folder": "technology",
+      "topic": "Trí tuệ nhân tạo"
+    },
+    {
+      "query": "deeplearning được hiểu như thế nào",
+      "folder": "technology",
+      "topic": "Deep Learning"
+    },
+    {
+      "query": "hãy giải thích cho tôi về vật lý học",
+      "folder": "science",
+      "topic": "Vật lý học"
+    },
+    {
+      "query": "sự kiện sinh ra ai trong lịch sử",
+      "folder": "technology",
+      "topic": "Trí tuệ nhân tạo"
+    },
+    {
+      "query": "những đột phá trong học sâu",
+      "folder": "technology",
+      "topic": "Deep Learning"
+    },
+    {
+      "query": "vật lý học bao gồm những lĩnh vực nào",
+      "folder": "science",
+      "topic": "Vật lý học"
+    },
+    {
+      "query": "ai đã tác động đến cuộc sống của chúng ta như thế nào",
+      "folder": "technology",
+      "topic": "Trí tuệ nhân tạo"
+    }
+]
